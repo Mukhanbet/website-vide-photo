@@ -41,3 +41,7 @@ div {
     padding: 75px;
     text-align: center;
 }
+
+hr {
+    box-shadow: 0px 5px 30px 10px;
+}
